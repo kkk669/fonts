@@ -2,5 +2,26 @@
     font-family: 'SF Mono Nerd Font';
     font-style: normal;
     font-weight: normal;
-    src: url(https://raw.githubusercontent.com/artofrawr/powerline-fonts/master/fonts/SFMono/SF%20Mono%20Regular%20Nerd%20Font%20Complete.otf);
+    src: url(https://raw.githubusercontent.com/artofrawr/powerline-fonts/master/fonts/SFMono/SF%20Mono%20Regular%20Nerd%20Font%20Complete.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Mono Nerd Font';
+    font-style: italic;
+    font-weight: normal;
+    src: url(https://raw.githubusercontent.com/artofrawr/powerline-fonts/master/fonts/SFMono/SF%20Mono%20Regular%20Nerd%20Font%20Complete.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Mono Nerd Font';
+    font-style: normal;
+    font-weight: bold;
+    src: url(https://raw.githubusercontent.com/artofrawr/powerline-fonts/master/fonts/SFMono/SF%20Mono%20Regular%20Nerd%20Font%20Complete.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Mono Nerd Font';
+    font-style: italic;
+    font-weight: bold;
+    src: url(https://raw.githubusercontent.com/artofrawr/powerline-fonts/master/fonts/SFMono/SF%20Mono%20Regular%20Nerd%20Font%20Complete.otf) format('opentype');
 }
