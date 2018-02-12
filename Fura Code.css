@@ -4,3 +4,10 @@
     font-weight: normal;
     src: url(https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/patched-fonts/FiraCode/Regular/complete/Fura%20Code%20Regular%20Nerd%20Font%20Complete.otf);
 }
+
+@font-face {
+    font-family: 'Fura Code Nerd Font';
+    font-style: normal;
+    font-weight: bold;
+    src: url(https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/patched-fonts/FiraCode/Bold/complete/Fura%20Code%20Bold%20Nerd%20Font%20Complete.otf);
+}
